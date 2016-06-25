@@ -7,3 +7,5 @@ It is a huge project which will be very helpful to greek-speaking friends.
 Code for the database we made is not included, but there are some pictures of representations of it (through workbench) in our pdf.
 
 There is also code for the android app we made later for it lying around (this class had 3 projects total), I hope I can find it someday... :)
+
+Developed with Eclipse in Windows 7
